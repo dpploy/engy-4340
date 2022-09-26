@@ -1,7 +1,7 @@
 # Local
 *~
-readme.txt
-*.md
+readme-md-to-pdf.txt
+homework*.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
