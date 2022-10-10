@@ -3,6 +3,7 @@
 readme-md-to-pdf.txt
 homework*.md
 *solution*
+*exam*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
