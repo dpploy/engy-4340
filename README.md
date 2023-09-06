@@ -6,7 +6,7 @@
 ![Website](https://img.shields.io/website/https/github.com/dpploy/engy-4340.svg)
 [![Size](https://img.shields.io/github/repo-size/dpploy/engy-4340.svg?label=size&style=flat)](https://github.com/dpploy/engy-4340)
 
-   + [University of Massachusetts Lowell](https://www.uml.edu/), Fall 2022
+   + [University of Massachusetts Lowell](https://www.uml.edu/), Fall 2023
    + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/) (Nuclear Energy Program)
    + [Prof. Valmor F. de Almeida](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) (valmor_dealmeida@uml.edu)
 
