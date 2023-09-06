@@ -6,6 +6,9 @@ homework*.md
 *exam*
 *syllab*.md
 
+*bonus*
+homework*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
