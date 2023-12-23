@@ -1,7 +1,7 @@
 # Engy-4340 Nuclear Reactor Theory
 
 [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/engy-4340/tree/main/notebooks/)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/engy-4340/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/engy-4340/HEAD?filepath=main)
 
 ![Website](https://img.shields.io/website/https/github.com/dpploy/engy-4340.svg)
 [![Size](https://img.shields.io/github/repo-size/dpploy/engy-4340.svg?label=size&style=flat)](https://github.com/dpploy/engy-4340)
