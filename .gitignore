@@ -5,12 +5,10 @@ homework*.md
 *solution*
 *exam*
 *syllab*.md
-
+.DS_Store
 *bonus*
 *Copy*
 01-cte-rho-pt-reactor*
-
-homework*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
